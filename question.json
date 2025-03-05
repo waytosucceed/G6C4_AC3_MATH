@@ -1,0 +1,112 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "The given model represents<br><img width='60%' src='./question/1.png'>",
+    "options": [
+      "48 × 24",
+      "40 × 24",
+      "44 × 28",
+      "48 × 28"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Multiply 981 by 397 using the area model.",
+    "options": [
+      "389,457",
+      "243,579",
+      "345,687",
+      "342,799"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Which model represents 37 × 98?",
+    "options": [
+      "1.png",
+      "2.png",
+      "3.png",
+      "4.png"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Which model represents 234 × 962?",
+    "options": [
+      "5.png",
+      "6.png",
+      "7.png",
+      "8.png"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Observe the given model and find the product of 31 × 94.<br><img width='60%' src='./question/2.png'>",
+    "options": [
+      "2,395",
+      "2,585",
+      "2,580",
+      "2,914"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q6",
+    "question": "Observe the given model and find 382 times 619.<br><img width='75%' src='./question/3.png'>",
+    "options": [
+      "236,345",
+      "237,535",
+      "236,458",
+      "325,345"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Find the area of rectangles A and B in the given model.<br><img width='70%' src='./question/4.png'>",
+    "options": [
+      "1,400 and 29",
+      "14,00 and 18",
+      "2,070 and 89",
+      "1,345 and 18"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Observe the given model and find the values of A, B and C.<br><img width='75%' src='./question/5.png'>",
+    "options": [
+      "A = 18,000, B = 2,000, C = 24",
+      "A = 1,800, B = 2,000, C = 24",
+      "A = 18,000, B = 200, C = 24",
+      "A = 12,000, B = 1,800, C = 24"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9",
+    "question": "Calculate the value of A in the given model.<br><img width='70%' src='./question/6.png'>",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10",
+    "question": "Determine the value of A, B and C.<br><img width='80%' src='./question/7.png'>",
+    "options": [
+      "A = 60, B = 3, C = 12",
+      "A = 600, B = 2, C = 24",
+      "A = 6, B = 4, C = 24",
+      "A = 30, B = 8, C = 12"
+    ],
+    "correct": 0
+  }
+]
